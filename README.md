@@ -1,5 +1,5 @@
-# mern-attendence-system
-An attendance system using MERN 
+# deployZ
+A server automation management tool
 
 
 ## For backend
